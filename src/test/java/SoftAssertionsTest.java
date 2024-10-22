@@ -18,7 +18,7 @@ public class SoftAssertionsTest {
         Configuration.holdBrowserOpen = false;
 }
 @Test
-void SoftAssertionTest(){
+void softAssertionTest(){
 
 //Откройте страницу Selenide в Github
     open("/selenide/selenide");
